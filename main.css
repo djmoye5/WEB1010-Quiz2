@@ -1,0 +1,33 @@
+body{
+    background-color: royalblue;
+    margin: 10vw 20vh;
+    padding: 0;
+}
+
+h1{
+    color:gold;
+}
+
+img{
+    position: absolute;
+    float: right;
+}
+
+.div{
+    position: absolute;
+    display: inline-block;
+    min-width: 69vw;
+    min-height: 79vh;
+}
+
+form{
+    float: left;
+    margin: 0vw 15vh 0vw 15vh;
+}
+
+form input{
+  border-block-end-color: gold;
+  border-block-start-color: gold;
+  display: block;
+  margin-bottom: 3vh;
+}
